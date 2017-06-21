@@ -4,7 +4,7 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM alpine:3.4
+FROM pipill/armhf-alpine:3.4
 
 # persistent / runtime deps
 ENV PHPIZE_DEPS \
